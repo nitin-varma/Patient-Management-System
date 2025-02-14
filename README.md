@@ -6,7 +6,7 @@ The **Patient Record Management System** is a CRUD-based healthcare application 
 ## ER Diagram
 Below is the **Entity-Relationship Diagram (ERD)** for the system:
 
-![ER Diagram](P3%20Final%20ERD%20(Group%2010)%20JPG%20file.jpg)
+![ER Diagram](Final_ERD.jpg)
 
 This ERD illustrates the relationships between key entities such as **Patients, Physicians, Appointments, Prescriptions, Medical Records, Insurance Policies**, and more.
 
